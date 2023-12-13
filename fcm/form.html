@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+<h1>this form is for sending notification for all users</h1>
+    <form action="all.php" method="get">
+	
+	
+        <table>
+            <tr>
+                <td>
+                    Title
+                </td>
+                <td>
+                    <input type="text" name="title">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Message
+                </td>
+                <td>
+                    <input type="text" name="message">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2"><button type="submit">Send Message</button></td>
+            </tr> 
+        </table>
+    </form>
+
+
+
+
+<h1>
+This form to send to a specific user
+
+</h1>
+    <form action="fcm.php" method="get">
+	
+	
+        <table>
+            <tr>
+                <td>
+                    Title
+                </td>
+                <td>
+                    <input type="text" name="title">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Message
+                </td>
+                <td>
+                    <input type="text" name="message">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2"><button type="submit">Send Message</button></td>
+            </tr> 
+        </table>
+    </form>
+</body>
+</html>
