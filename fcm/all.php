@@ -14,7 +14,8 @@ function send_notification($topic, $message_complete)
 
     $headers = array(
         //note this code wont work in Jun 2024 use HTTP v1
-        'Authorization:key =AAAATU2PHf4:APA91bHoDL9XhmVDFoTvZ9E71jl-TgrP01ArfhwpA02DVbH2sDYwf86fTQGpIgnL8lz_Zaob0ckTS1x1XPwIePwn4utnHWfZGutW4fCVnVy9rlCMAvb-j5UqGY6M258AQic7mPCLldwF  ', //Change API KEY HERE
+
+        'Authorization:key =AAAAtHCn-uc:APA91bF50av8FGhzd3q2z-o8dUkZ3QFhdb5A5pf7JP-4K4P6RlJoGLsVrsncQDQrWccisGZTu4gT3hlbq4Z-djY-6Ll_ELQzfAe1Hv-EzTvN6waPa3KC5WLVHMKOvY7rVXaM6w64hhcW  ', //Change API KEY HERE
         'Content-Type: application/json'
     );
 

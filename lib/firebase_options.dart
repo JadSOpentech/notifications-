@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB_VWTlNGwRgtiYMb4xbY5WouChBZsvxKw',
-    appId: '1:332013706750:android:7f49994512cc7bce1434af',
-    messagingSenderId: '332013706750',
-    projectId: 'jad1-658dc',
-    storageBucket: 'jad1-658dc.appspot.com',
+    apiKey: 'AIzaSyDkYD6j3FnNUKLa-ta5YA9kDCDMs-jBtq0',
+    appId: '1:774984170215:android:498176240ea6b90c8b8042',
+    messagingSenderId: '774984170215',
+    projectId: 'adinotification',
+    storageBucket: 'adinotification.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCFxXOiIdG0LFUafAnKT3eyqXq5eSRMdd8',
-    appId: '1:332013706750:ios:2066e8e88c6894c51434af',
-    messagingSenderId: '332013706750',
-    projectId: 'jad1-658dc',
-    storageBucket: 'jad1-658dc.appspot.com',
+    apiKey: 'AIzaSyCHtDPCL8yywtiqEVxO3VmGJL_ZvEKcrnA',
+    appId: '1:774984170215:ios:2219ee4862fa13f38b8042',
+    messagingSenderId: '774984170215',
+    projectId: 'adinotification',
+    storageBucket: 'adinotification.appspot.com',
     iosBundleId: 'com.example.notiss',
   );
 }

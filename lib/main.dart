@@ -1,5 +1,8 @@
 //add those commands
+
+//NOTE :those command are used when creating new project ONLY
 // Add firebase core into your project
+//npm install -g firebase-tools
 // flutter pub add firebase_core
 // // Generate firebase options file
 // flutterfire configure

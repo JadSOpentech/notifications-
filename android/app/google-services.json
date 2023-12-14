@@ -1,32 +1,13 @@
 {
   "project_info": {
-    "project_number": "332013706750",
-    "project_id": "jad1-658dc",
-    "storage_bucket": "jad1-658dc.appspot.com"
+    "project_number": "774984170215",
+    "project_id": "adinotification",
+    "storage_bucket": "adinotification.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:332013706750:android:611d9943af5b6b971434af",
-        "android_client_info": {
-          "package_name": "com.example.mas_t"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyB_VWTlNGwRgtiYMb4xbY5WouChBZsvxKw"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:332013706750:android:7f49994512cc7bce1434af",
+        "mobilesdk_app_id": "1:774984170215:android:498176240ea6b90c8b8042",
         "android_client_info": {
           "package_name": "com.example.notis_s"
         }
@@ -34,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB_VWTlNGwRgtiYMb4xbY5WouChBZsvxKw"
+          "current_key": "AIzaSyDkYD6j3FnNUKLa-ta5YA9kDCDMs-jBtq0"
         }
       ],
       "services": {
